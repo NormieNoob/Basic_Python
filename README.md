@@ -1,2 +1,3 @@
-# Header 1
-This is the first line
+# Python program to generate password
+
+ This is a basic python program to generate password
